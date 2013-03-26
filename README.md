@@ -8,21 +8,21 @@ Based on a terminal theme from the [official Solarized homepage](http://ethansch
 ## The Values
 (Colors are matched in sRGB space.)
 
-    SOLARIZED  TERMCOL   XTERM/HEX    RGB          HSB
-    ---------  -------   -----------  -----------  -----------
-    base03     brblack   234 #1c1c1c    0  43  54  193 100  21
-    base02     black     235 #262626    7  54  66  192  90  26
-    base01     brgreen   240 #585858   88 110 117  194  25  46
-    base00     bryellow  241 #626262  101 123 131  195  23  51
-    base0      brblue    244 #808080  131 148 150  186  13  59
-    base1      brcyan    245 #8a8a8a  147 161 161  180   9  63
-    base2      white     254 #e4e4e4  238 232 213   44  11  93
-    base3      brwhite   230 #ffffd7  253 246 227   44  10  99
-    yellow     yellow    136 #af8700  181 137   0   45 100  71
-    orange     brred     166 #d75f00  203  75  22   18  89  80
-    red        red       124 #af0000  211   1   2    0  99  83
-    magenta    magenta   125 #af005f  211  54 130  331  74  83
-    violet     brmagent   61 #5f5faf  108 113 196  237  45  77
-    blue       blue       33 #0087ff   38 139 210  205  82  82
-    cyan       cyan       37 #00afaf   42 161 152  175  74  63
-    green      green      64 #5f8700  133 153   0   68 100  60
+    SOLARIZED    TERMCOL    RGB            HSB            XTERM/HEX  
+    ---------    -------    -----------    -----------    -----------
+    base03       brblack      0  43  54    193 100  21    234 #1c1c1c
+    base02       black        7  54  66    192  90  26    235 #262626
+    base01       brgreen     88 110 117    194  25  46    240 #585858
+    base00       bryellow   101 123 131    195  23  51    241 #626262
+    base0        brblue     131 148 150    186  13  59    244 #808080
+    base1        brcyan     147 161 161    180   9  63    245 #8a8a8a
+    base2        white      238 232 213     44  11  93    254 #e4e4e4
+    base3        brwhite    253 246 227     44  10  99    230 #ffffd7
+    yellow       yellow     181 137   0     45 100  71    136 #af8700
+    orange       brred      203  75  22     18  89  80    166 #d75f00
+    red          red        211   1   2      0  99  83    124 #af0000
+    magenta      magenta    211  54 130    331  74  83    125 #af005f
+    violet       brmagent   108 113 196    237  45  77     61 #5f5faf
+    blue         blue        38 139 210    205  82  82     33 #0087ff
+    cyan         cyan        42 161 152    175  74  63     37 #00afaf
+    green        green      133 153   0     68 100  60     64 #5f8700
